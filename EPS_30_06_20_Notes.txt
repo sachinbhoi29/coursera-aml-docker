@@ -1,0 +1,78 @@
+BOB all changes pending
+
+BOI Non-financial in annexure, cell too small
+Total, cgst, sgst at the bottom, text should be center, numbers should be right aligned
+
+Live date, Onsite, Offsite should be center aligned
+header should be in camel case
+working tab column G-AM should be centeraligned, rest AN-AQ right aligned already
+
+Uptime tabQ column size should be 10, also column o
+
+
+BOMH
+Camel case ATM Location Onsite/Offsite Camel case
+Column L size from 12 to 14
+Minimum Guarentee spell error
+Amount payable at the bottom, total not visible
+Calc and working not bold
+Camel case heading all
+
+BJK SBI Bihar & Jharkhand Bold calculation working normal
+
+CAN 
+Annexure live date column width
+Cell No O 10 and O 11 right aligned
+Onsite offsite - make it 10 from 12
+Onsite offsite make it 10 and centeraligned
+Camel case heading all
+Check the rajit's sent file for with Alt + Tab for alignment and other issues for all the bank
+Column H, O, Q, B width
+
+CBI
+ANN onsite offsite centeraligned
+Total - Problem, check the rajit's sent file 
+Maharashtra, Mumbai, onsite, offsite font size is small, make it 10
+Row height 58
+working should be unbold
+ATM ID in Perf and penalty column size too small
+
+COB
+IGST should be SGST and CGST, for interstate it is SGST and CGST, for Intrastate it is IGST
+At the bottom near the total, it should be cgst and sgst instead of IGST
+Working tab numbers font should be 12, it is 10
+
+
+IDBI
+Working onsite offsite size 10 and centeraligned
+Annexure b4 cell is too small text is cutting
+Row height and width replace by rajit's sent file
+Row G should be centerrlined
+The heading should be Garamound, check rajit's file for font size 
+
+
+UBI
+Annexure row height check rajit's file
+Camel case
+ATM Location spelling mistake
+Column height and width take from rajit's file
+
+SBI
+Uptime 100% column size in excel
+MMR AC-Network 1 to 5 all headings are incorrect in Row 2 - replace with rajit's file heading 
+onsite offsite centeraligned
+Heading should be camel case
+state column is too small
+font size from 11 to 10
+Working AC_N1 should not be bold
+calculation should not be bold
+
+QR code overlap on invoice cell
+working uunbold,
+Installation type, ATM ID, column size
+onsite/offsite centerlined
+
+MH annexure should be bold
+MHN2 should be bold
+Working tab AC MH N2 minimum not printed in all red cells
+cross checck with rajit's sent files
